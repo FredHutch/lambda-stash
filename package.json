@@ -8,7 +8,8 @@
     "csv-parse": "^1.1.1",
     "elasticsearch": "^13.2.0",
     "http-aws-es": "^2.0.5",
-    "lodash": "^4.17.5"
+    "lodash": "^4.17.5",
+    "utf8": "^3.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.2",
